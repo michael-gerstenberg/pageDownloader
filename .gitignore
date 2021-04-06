@@ -1,6 +1,5 @@
 assets/
 src/config.py
-
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
